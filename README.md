@@ -36,7 +36,7 @@ A personal macro dashboard — designed to monitor growth, inflation, credit, an
 ## Project Structure
 
 ```bash
-macro-dashboard/
+Polar_Bear/
   collectors/     # data ingestion (yfinance, FRED, etc.)
   transforms/     # computations (yield spreads, inflation, credit stress)
   storage/        # save/load helpers (Parquet)
