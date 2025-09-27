@@ -19,7 +19,6 @@ A personal macro dashboard — designed to monitor growth, inflation, credit, an
 
 - **Dashboard UI**
   - Built in **Streamlit** with **Altair charts**.
-  - Bloomberg-style hover: crosshair, tooltips, vertical rule, white snapping dot.
   - KPI panels for quick readouts (Inflation %, YC spread, VIX, etc.).
   - Panels so far:
     - Yield Curve
