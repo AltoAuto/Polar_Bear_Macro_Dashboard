@@ -1,0 +1,4 @@
+market:
+  tickers:
+    - "^TNX"   # 10-year yield (Yahoo)
+    - "^VIX"   # equity volatility index (Yahoo)
